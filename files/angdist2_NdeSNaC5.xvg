@@ -1,45 +1,49 @@
-# This file was created Mon Jun 19 12:01:48 2017
+# This file was created Mon May 22 11:08:14 2017
 # by the following command:
-# g_angle_mpi -n ndx_files/angles2_NdeSNaC5.ndx -f trajpbc.xtc -od angdist2_NdeSNaC5.xvg 
+# g_angle_mpi -n ndx_files/angles2_NdeSNaC5.ndx -f traj_cg.xtc -od angdist2_NdeSNaC5.xvg 
 #
 # g_angle_mpi is part of G R O M A C S:
 #
-# Guyana Rwanda Oman Macau Angola Cameroon Senegal
+# Gnomes, ROck Monsters And Chili Sauce
 #
 @    title "Angle Distribution: angles"
 @    xaxis  label "Degrees"
 @    yaxis  label ""
 @TYPE xy
-@    subtitle "average angle: 117.106\So\N"
-        93    0.000000
-        94    0.000999
-        95    0.000000
-        96    0.000000
-        97    0.000000
-        98    0.000000
+@    subtitle "average angle: 116.831\So\N"
         99    0.000000
-       100    0.000000
-       101    0.000000
-       102    0.000000
-       103    0.000000
-       104    0.000000
-       105    0.000000
-       106    0.000000
-       107    0.000000
-       108    0.000000
-       109    0.000000
-       110    0.000000
-       111    0.000999
-       112    0.005994
-       113    0.022977
-       114    0.063437
-       115    0.105894
-       116    0.152348
-       117    0.219780
-       118    0.194805
-       119    0.132867
-       120    0.065934
-       121    0.021479
-       122    0.010989
-       123    0.001499
-       124    0.000000
+       100    0.000014
+       101    0.000014
+       102    0.000045
+       103    0.000153
+       104    0.000247
+       105    0.000665
+       106    0.001408
+       107    0.002692
+       108    0.005535
+       109    0.010110
+       110    0.017516
+       111    0.028228
+       112    0.042802
+       113    0.060865
+       114    0.079494
+       115    0.096328
+       116    0.109369
+       117    0.114946
+       118    0.109073
+       119    0.095773
+       120    0.077665
+       121    0.057618
+       122    0.039147
+       123    0.024206
+       124    0.013794
+       125    0.006998
+       126    0.003161
+       127    0.001367
+       128    0.000508
+       129    0.000176
+       130    0.000059
+       131    0.000014
+       132    0.000006
+       133    0.000002
+       134    0.000000
