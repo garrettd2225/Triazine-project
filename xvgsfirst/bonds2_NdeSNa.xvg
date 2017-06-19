@@ -1,0 +1,38 @@
+# This file was created Mon Jun 19 12:00:08 2017
+# by the following command:
+# g_bond_mpi -f trajpbc.xtc -blen 0.35 -tol 0.8 -n ndx_files/bonds2_NdeSNa.ndx -o bonds2_NdeSNa.xvg 
+#
+# g_bond_mpi is part of G R O M A C S:
+#
+# GROtesk MACabre and Sinister
+#
+@    title "Bond Stretching Distribution"
+@    xaxis  label "Bond Length (nm)"
+@    yaxis  label ""
+@TYPE xy
+ 0.23912   0.00000
+ 0.24024   0.89197
+ 0.24136   0.89197
+ 0.24248   4.01384
+ 0.24360   1.78393
+ 0.24472   8.91965
+ 0.24584  12.48751
+ 0.24696  21.85315
+ 0.24808  37.46254
+ 0.24920  69.12730
+ 0.25032  80.72285
+ 0.25144  111.04967
+ 0.25256  112.83360
+ 0.25368  109.71172
+ 0.25480  97.22421
+ 0.25592  76.26302
+ 0.25704  63.77551
+ 0.25816  36.12459
+ 0.25928  20.51520
+ 0.26040  15.16341
+ 0.26152   6.24376
+ 0.26264   1.78393
+ 0.26376   1.78393
+ 0.26488   1.78393
+ 0.26600   0.44598
+ 0.26712   0.00000
