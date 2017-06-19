@@ -1,0 +1,39 @@
+# This file was created Mon Jun 19 12:02:15 2017
+# by the following command:
+# g_angle_mpi -n ndx_files/angles2_NdeSNaNd.ndx -f trajpbc.xtc -od angdist2_NdeSNaNd.xvg 
+#
+# g_angle_mpi is part of G R O M A C S:
+#
+# Great Red Owns Many ACres of Sand 
+#
+@    title "Angle Distribution: angles"
+@    xaxis  label "Degrees"
+@    yaxis  label ""
+@TYPE xy
+@    subtitle "average angle: 125.206\So\N"
+       117    0.000000
+       118    0.000999
+       119    0.002997
+       120    0.008991
+       121    0.024476
+       122    0.049451
+       123    0.114885
+       124    0.152348
+       125    0.205794
+       126    0.175824
+       127    0.139860
+       128    0.076424
+       129    0.035465
+       130    0.008991
+       131    0.002498
+       132    0.000000
+       133    0.000500
+       134    0.000000
+       135    0.000000
+       136    0.000000
+       137    0.000000
+       138    0.000000
+       139    0.000000
+       140    0.000000
+       141    0.000500
+       142    0.000000
